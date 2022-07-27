@@ -1,2 +1,2 @@
 hallo, nama saya Ichsan Maulana
-hallo nama saya
+hallo nama saya serli dan ranti
