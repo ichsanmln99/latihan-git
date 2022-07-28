@@ -1,4 +1,18 @@
 body {
 background: url('background.jpeg');
 color: #c5bdff;
+<<<<<<< HEAD
+=======
+}
+.about,
+.service {
+	padding-bottom: 100px;
+}
+.about p {
+	color: #666;
+	word-spacing: 2px;
+	line-height: 25px;
+	margin-bottom: 20px;
+	text-align: center;
+>>>>>>> e34a1797f632371829ba8d812f84042c54ed4561
 }
